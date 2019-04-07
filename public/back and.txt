@@ -1,0 +1,7 @@
+express is the framework
+node is a java script run time envierment
+npm instral express-gen. -g
+express --hbs
+npm
+install 
+127.0.0.1.3000
